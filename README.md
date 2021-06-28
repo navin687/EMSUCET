@@ -7,12 +7,8 @@ A Project Report
 
 
 
-By
+By Navin Kumar Das(IT)
 
-  Ravi Kumar(IT)
-       Navin Kumar Das(IT)
-  Ajay Murmu(IT)
-Anurag Kumar(IT)
 
 
 MAY 2017
