@@ -26,41 +26,6 @@ Information Technology
 University College of Engineering and Technology
 V.B.U Hazaribagh
 
-
-
-BONAFIDE CERTIFICATE
-
-
-This is to certify that this project report entitled “ANDROID APPLICATION  ON EMPLOYEE MANAGEMENT SYSTEM”, submitted on May 11th,2018 by the following members of the group in partial fulfilment for the award of B.Tech degree in Information Technology,is a record of the work carried out by them under my guidance and supervision.
-
-
-
-Name of the student: ANURAG KUMAR			Signature:
-Name of the student: RAVI KUMAR				Signature:
-Name of the student: NAVIN KUMAR DAS		           Signature:
-Name of the student:AJAY MURMU			           Signature:
-
-
-
-Assistant professer AMIT  KUMAR
-PROJECT MENTOR
-
-
-
-
-SIGNATURE
-
-
-
-
-
-
-
-
-
-
-
-
 ACKNOWLEDGEMENT
 
 We have taken efforts in this project. However, it would not have been possible without the kind support and help of many individual. We would like to extend my sincere thanks to all of them.
@@ -73,47 +38,6 @@ We would like to thank all faculty members and staff of the Department of Inform
 
 
 Finally, yet importantly, we would like to express my heartfelt thanks to my beloved parents for their blessings, my friends and classmates for their help and wishes for the successful completion of this project.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Table of Contents	Page No
-1.	Abstract	05
-2.	Introduction and Objectives of the Project	06
-3.	Tools/Platform, Hardware and Software Requirement specifications	07
-4.	Design	08
-5.	Data Model	09-10
-6.	Functional Requirements	10-11
-7.	Non-functional Requirements	12
-8.	Coding	
-9.	Screenshot	
-10.	Future scope	
-11.	Conclusion	
-12.	References	
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 1.	Abstract
