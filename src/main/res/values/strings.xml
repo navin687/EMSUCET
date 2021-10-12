@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EMS UCET</string>
+    <string name="b1">Registration</string>
+    <string name="b2">Login</string>
+    <string name="et1">ID</string>
+    <string name="et2">name</string>
+    <string name="et3">Age</string>
+    <string name="et4">Contact number</string>
+    <string name="et5">Email Id</string>
+    <string name="et6">Password</string>
+    <string name="et7">ReEnter-Password</string>
+    <string name="b3">Submit</string>
+    <string name="tv1">Login Page</string>
+    <string name="b4">Accepted Employee</string>
+    <string name="b5">Pending Employee</string>
+    <string name="b6">Decline Employee</string>
+    <string name="title_activity_internet">internet</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_log_out">Log Out</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_nav_drw">NavDrwActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

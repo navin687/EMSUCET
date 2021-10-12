@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/one"
+        android:checked="true"
+        android:icon="@drawable/list"
+        android:title="Pending"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/two"
+        android:checked="false"
+        android:icon="@drawable/appro"
+        android:title="Approved"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/three"
+        android:checked="false"
+        android:icon="@drawable/stop"
+        android:title="Declined"
+        app:showAsAction="ifRoom" />
+</menu>

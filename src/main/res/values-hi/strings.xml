@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">डेटाबेस</string>
+    <string name="b1">पंजीकरण</string>
+    <string name="b2">लॉग इन करें</string>
+    <string name="b3">जमा करें</string>
+    <string name="b4">स्वीकृत कर्मचारी</string>
+    <string name="b5">लंबित कर्मचारी</string>
+    <string name="b6">अस्वीकृत कर्मचारी</string>
+    <string name="et1">आईडी</string>
+    <string name="et2">नाम</string>
+    <string name="et3">उम्र</string>
+    <string name="et4">संपर्क नंबर</string>
+    <string name="et5">ईमेल आईडी</string>
+    <string name="et6">पासवर्ड</string>
+    <string name="et7">पुनः-पासवर्ड</string>
+    <string name="tv1">लॉगिन पन्ना</string>
+</resources>

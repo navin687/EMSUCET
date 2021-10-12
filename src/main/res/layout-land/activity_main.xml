@@ -1,0 +1,25 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/b1"
+        android:onClick="openRegistration"
+        android:textColor="#bd10f704"
+        android:id="@+id/b1" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/b2"
+        android:onClick="openLogin"
+        android:textColor="#1eff05"
+        android:layout_margin="10dp"
+        android:id="@+id/b2" />
+
+</LinearLayout>
